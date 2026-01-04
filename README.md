@@ -1,6 +1,15 @@
 # 💫 About Me:
-Data Analyst | SQL • Python • Power BI • Excel<br><br>I’m Syed Rabbith, a Data Analyst with a strong foundation in data cleaning, analysis, and visualization. I enjoy turning raw data into meaningful insights using SQL, Python (Pandas, NumPy), Power BI, and Excel. Currently building real-world projects to strengthen my analytical and problem-solving skills.
+Hi, I’m Syed Rabbith, an aspiring Data Analyst with a strong foundation in SQL, Python, Power BI, and Advanced Excel. I enjoy transforming raw data into meaningful insights through data cleaning, exploratory data analysis (EDA), and clear data visualization.
 
+I have hands-on experience working with real-world datasets, writing optimized SQL queries, analyzing data using Pandas and NumPy, and building interactive Power BI dashboards with KPIs and DAX. My focus is always on understanding the business problem first and then applying the right analytical techniques to support data-driven decisions.
+
+I continuously improve my skills by building projects, practicing analytics workflows, and documenting my work on GitHub using version control. I am currently seeking entry-level Data Analyst opportunities where I can learn, contribute, and grow as a data professional.
+
+⸻
+
+🛠 Tech Stack
+
+SQL | Python (Pandas, NumPy) | Power BI (DAX) | Advanced Excel | MySQL | Git & GitHub
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Syed Rabbith ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Syedrabbith37@gmail.com) 
