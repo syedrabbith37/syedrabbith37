@@ -9,7 +9,19 @@ I continuously improve my skills by building projects, practicing analytics work
 
 🛠 Tech Stack
 
-SQL | Python (Pandas, NumPy) | Power BI (DAX) | Advanced Excel | MySQL | Git & GitHub
+SQL , Python (Pandas, NumPy) 
+Power BI (DAX,Dashboard) 
+Advanced Excel 
+MySQL 
+Git & GitHub
+
+## 📂 Projects
+- Sales Analysis using SQL
+- Power BI Business Dashboard
+- Python EDA Project
+
+## 🎯 Career Goal
+Seeking entry-level Data Analyst roles where I can learn, contribute, and grow.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Syed Rabbith ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Syedrabbith37@gmail.com) 
