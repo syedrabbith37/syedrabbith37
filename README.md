@@ -16,9 +16,8 @@ MySQL
 Git & GitHub
 
 ## 📂 Projects
-- Sales Analysis using SQL
-- Power BI Business Dashboard
-- Python EDA Project
+- -E-Commerce-Sales-Revenue-Intelligence-Dashboard-Power-BI-DAX-SQL
+- 
 
 ## 🎯 Career Goal
 Seeking entry-level Data Analyst roles where I can learn, contribute, and grow.
