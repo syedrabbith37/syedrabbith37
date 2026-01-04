@@ -16,8 +16,8 @@ MySQL
 Git & GitHub
 
 ## 📂 Projects
-- -E-Commerce-Sales-Revenue-Intelligence-Dashboard-Power-BI-DAX-SQL
-- 
+- E-Commerce-Sales-Revenue-Intelligence-Dashboard-Power-BI-DAX-SQL
+- SQL-Employee-Management-HR-Analytics-Project 
 
 ## 🎯 Career Goal
 Seeking entry-level Data Analyst roles where I can learn, contribute, and grow.
